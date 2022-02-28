@@ -16,7 +16,9 @@
             <input type="text" name="name" id="name" class="form-control-sm mb-2 mr-5">
             <p class="mr-4 mt-2"><label for="name">価格</label></p>
             <input type="text" name="name" id="name" class="form-control-sm mb-2">
+            <button class="btn btn-outline-primary ml-4">送信</button>
         </form>
+        
     </div>
 </body>
 </html>
